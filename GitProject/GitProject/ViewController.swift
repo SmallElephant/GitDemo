@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     private func test() {
         print("controller---test")
     }
+    
+    private func rebaseTest() {
+        print("rebase---test")
+    }
 
 }
 
